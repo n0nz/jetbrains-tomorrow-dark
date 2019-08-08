@@ -12,3 +12,5 @@ Plugin Page: https://plugins.jetbrains.com/plugin/12848-tomorrow-dark-color-sche
 Installation (Mac):
 
 Copy "*.icls" to "/Users/<Username>/Library/Preferences/IntelliJIdea<Version>/colors"
+
+![Screenshot 01](https://plugins.jetbrains.com/files/12848/screenshot_20114.png)
